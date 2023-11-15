@@ -1,7 +1,8 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: Nov-15-2023
+- Facilitator: Madelyn
+- Name: Yao Zhan
 
 ## Class Resources
 
